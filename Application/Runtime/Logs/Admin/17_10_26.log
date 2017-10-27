@@ -1,0 +1,45 @@
+[ 2017-10-26T18:26:40+08:00 ] 127.0.0.1 /index.php/Admin/role/index
+ERR: 1054:Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `bg_menu` WHERE `id` IN (Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array) 
+
+[ 2017-10-26T18:33:09+08:00 ] 127.0.0.1 /index.php/Admin/index/index.html
+ERR: 1054:Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `bg_menu` WHERE `id` IN (Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array) 
+
+[ 2017-10-26T18:52:08+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/23
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bg_menu` WHERE `id` IN () 
+
+[ 2017-10-26T18:52:13+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/23
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bg_menu` WHERE `id` IN () 
+
+[ 2017-10-26T18:53:44+08:00 ] 127.0.0.1 /index.php/Admin/role/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 35 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0120s ]
+SQL: UPDATE `bg_role` SET `role_name`='管理员',`description`='唯超级管理员是从',`updated_time`='1509015224' WHERE `id` = 2 [ RunTime:0.0010s ]
+SQL: DELETE FROM `bg_access` WHERE ( role_id=2 ) [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_access` (`role_id`,`menu_id`,`created_time`,`updated_time`) VALUES ('2','5','1509015224','1509015224'),('2','12','1509015224','1509015224'),('2','6','1509015224','1509015224'),('2','17','1509015224','1509015224'),('2','18','1509015224','1509015224'),('2','19','1509015224','1509015224'),('2','20','1509015224','1509015224'),('2','21','1509015224','1509015224'),('2','7','1509015224','1509015224'),('2','13','1509015224','1509015224'),('2','14','1509015224','1509015224'),('2','15','1509015224','1509015224'),('2','23','1509015224','1509015224'),('2','24','1509015224','1509015224'),('2','11','1509015224','1509015224'),('2','22','1509015224','1509015224'),('2','16','1509015224','1509015224'),('2','33','1509015224','1509015224'),('2','34','1509015224','1509015224'),('2','25','1509015224','1509015224'),('2','26','1509015224','1509015224') [ RunTime:0.0000s ]
+
+[ 2017-10-26T18:55:30+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/23
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bg_menu` WHERE `id` IN () 
+
+[ 2017-10-26T18:55:38+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/23
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bg_menu` WHERE `id` IN () 
+
+[ 2017-10-26T18:56:06+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/23
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bg_menu` WHERE `id` IN () 
+

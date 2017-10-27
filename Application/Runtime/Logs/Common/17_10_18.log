@@ -1,0 +1,108 @@
+[ 2017-10-18T09:59:48+08:00 ] 127.0.0.1 /index.php/static/h-ui/css/H-ui.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Static
+
+[ 2017-10-18T09:59:48+08:00 ] 127.0.0.1 /index.php/welcome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Welcome
+
+[ 2017-10-18T09:59:48+08:00 ] 127.0.0.1 /index.php/lib/layer/2.4/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2017-10-18T09:59:48+08:00 ] 127.0.0.1 /index.php/static/h-ui/js/H-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Static
+
+[ 2017-10-18T09:59:48+08:00 ] 127.0.0.1 /index.php/static/h-ui.admin/js/H-ui.admin.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Static
+
+[ 2017-10-18T09:59:48+08:00 ] 127.0.0.1 /index.php/lib/jquery.contextmenu/jquery.contextmenu.r2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2017-10-18T09:59:49+08:00 ] 127.0.0.1 /index.php/static/h-ui.admin/css/H-ui.admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Static
+
+[ 2017-10-18T09:59:49+08:00 ] 127.0.0.1 /index.php/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2017-10-18T09:59:49+08:00 ] 127.0.0.1 /index.php/lib/Hui-iconfont/1.0.8/iconfont.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2017-10-18T09:59:49+08:00 ] 127.0.0.1 /index.php/static/h-ui.admin/skin/default/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Static
+
+[ 2017-10-18T09:59:49+08:00 ] 127.0.0.1 /index.php/static/h-ui.admin/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Static
+
+[ 2017-10-18T09:59:49+08:00 ] 127.0.0.1 /index.php/lib/layer/2.4/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2017-10-18T09:59:49+08:00 ] 127.0.0.1 /index.php/static/h-ui/js/H-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Static
+
+[ 2017-10-18T09:59:49+08:00 ] 127.0.0.1 /index.php/static/h-ui.admin/js/H-ui.admin.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Static
+
+[ 2017-10-18T09:59:49+08:00 ] 127.0.0.1 /index.php/lib/jquery.contextmenu/jquery.contextmenu.r2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2017-10-18T10:18:58+08:00 ] 127.0.0.1 /index.php/welcome.html
+ERR: 无法加载模块:Welcome
+
+[ 2017-10-18T10:26:28+08:00 ] 127.0.0.1 /index.php/welcome.html
+ERR: 无法加载模块:Welcome
+
+[ 2017-10-18T10:26:31+08:00 ] 127.0.0.1 /index.php/system-base.html
+ERR: 无法加载模块:System-base
+
+[ 2017-10-18T10:28:50+08:00 ] 127.0.0.1 /index.php/11.html
+ERR: 无法加载模块:11
+
+[ 2017-10-18T11:14:42+08:00 ] 127.0.0.1 /index.php/system-base.html
+ERR: 无法加载模块:System-base
+
+[ 2017-10-18T11:16:30+08:00 ] 127.0.0.1 /index.php/welcome.html
+ERR: 无法加载模块:Welcome
+

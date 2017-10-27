@@ -1,0 +1,2352 @@
+[ 2017-10-20T09:41:23+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-10-20T09:42:22+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T09:43:29+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T09:44:47+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T09:45:31+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T09:47:05+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-20T10:06:12+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-20T10:06:13+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T10:06:13+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T10:06:16+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T10:06:16+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T10:06:52+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: id F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `bg_user` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: password F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 34 行.
+
+[ 2017-10-20T10:07:46+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `bg_user` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: password F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 34 行.
+
+[ 2017-10-20T10:07:59+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `bg_user` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: password F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 34 行.
+
+[ 2017-10-20T10:08:23+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `bg_user` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: password F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 34 行.
+
+[ 2017-10-20T10:08:54+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `bg_user` LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-10-20T10:09:15+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] unserialize() expects parameter 1 to be string, array given F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `bg_user` LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-10-20T10:09:53+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unserialize() expects parameter 1 to be string, array given F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 32 行.
+
+[ 2017-10-20T10:10:36+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unserialize() expects parameter 1 to be string, array given F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 32 行.
+
+[ 2017-10-20T10:12:52+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unserialize() expects parameter 1 to be string, array given F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 32 行.
+
+[ 2017-10-20T10:16:10+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-20T10:19:33+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T10:20:02+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `bg_user` LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-10-20T10:20:33+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T10:23:22+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-20T10:23:38+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `bg_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='admin',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='这家伙很懒，什么也没有留下...' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T10:29:29+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='d41d8cd98f00b204e9800998ecf8427e',`sex`='1',`tel`='',`email`='136644909@qq.com',`comments`='这家伙很懒，什么也没有留下...' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T10:29:43+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='d41d8cd98f00b204e9800998ecf8427e',`sex`='1',`tel`='',`email`='136644909@qq.com',`comments`='这家伙很懒，什么也没有留下...' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T10:30:46+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='xixi' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T10:32:26+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='xixi' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T10:32:51+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='xixi' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T10:32:58+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='oo ' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T10:33:01+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='oo 11' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T10:38:05+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T10:38:16+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='d41d8cd98f00b204e9800998ecf8427e',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T10:38:27+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='aa' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T10:38:49+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='aa' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T10:38:52+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='aaa ' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T10:46:08+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='ywj',`password`='d41d8cd98f00b204e9800998ecf8427e',`sex`='1',`tel`='未填写',`email`='未填写',`comments`='这家伙很懒，什么也没有留下...' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T10:47:02+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='ywj',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='未填写',`email`='未填写',`comments`='这家伙很懒，什么也没有留下...' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T10:49:35+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='admin' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T10:50:07+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='ywj',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='未填写',`email`='未填写',`comments`='这家伙很懒，什么也没有留下...' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T10:50:31+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='ywj',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='未填写',`email`='未填写',`comments`='这家伙很懒，什么也没有留下...' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T10:51:10+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='ywj',`password`='d41d8cd98f00b204e9800998ecf8427e',`sex`='1',`tel`='123',`email`='12',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T10:59:08+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='ywj',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='123',`email`='12',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T10:59:09+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='ywj',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='123',`email`='12',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T11:03:13+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='ywj',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='123',`email`='12',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T11:11:27+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T11:12:28+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T11:13:50+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T11:20:24+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T11:21:35+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T11:23:07+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T11:25:05+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T11:25:26+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T11:26:07+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T11:28:59+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0050s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T11:31:05+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T11:32:22+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T11:33:14+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T11:36:02+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T11:36:49+08:00 ] 127.0.0.1 /index.php/Admin/index/admin-role.html
+ERR: 非法操作:admin-role
+
+[ 2017-10-20T11:37:27+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T11:42:49+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T11:44:52+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T11:45:19+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T11:49:33+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T11:49:43+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0090s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T11:49:56+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T11:52:30+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T12:15:26+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T12:17:07+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='admin' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T12:18:36+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T12:20:28+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='admin' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T12:20:55+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='admin' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T12:25:23+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='admin' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T12:28:40+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='admin' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T12:30:35+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='admin' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T12:33:58+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='admin' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T12:35:10+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='admin' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T12:38:41+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='admin' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T12:39:44+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='admin' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T12:47:17+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='admin',`password`='21232f297a57a5a743894a0e4a801fc3',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='admin' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T12:47:29+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T12:49:31+08:00 ] 127.0.0.1 /index.php/Admin/Admin/admin-add.html
+ERR: 非法操作:admin-add
+
+[ 2017-10-20T12:50:10+08:00 ] 127.0.0.1 /index.php/Admin/Admin/static/h-ui/css/H-ui.min.css
+ERR: 非法操作:static
+
+[ 2017-10-20T12:50:10+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/layer/2.4/layer.js
+ERR: 非法操作:lib
+
+[ 2017-10-20T12:50:10+08:00 ] 127.0.0.1 /index.php/Admin/Admin/static/h-ui/js/H-ui.min.js
+ERR: 非法操作:static
+
+[ 2017-10-20T12:50:10+08:00 ] 127.0.0.1 /index.php/Admin/Admin/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2017-10-20T12:50:10+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/jquery.validation/1.14.0/jquery.validate.js
+ERR: 非法操作:lib
+
+[ 2017-10-20T12:50:10+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/jquery.validation/1.14.0/validate-methods.js
+ERR: 非法操作:lib
+
+[ 2017-10-20T12:50:10+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/jquery.validation/1.14.0/messages_zh.js
+ERR: 非法操作:lib
+
+[ 2017-10-20T12:50:11+08:00 ] 127.0.0.1 /index.php/Admin/Admin/static/h-ui.admin/skin/default/skin.css
+ERR: 非法操作:static
+
+[ 2017-10-20T12:50:11+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2017-10-20T12:50:11+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/Hui-iconfont/1.0.8/iconfont.css
+ERR: 非法操作:lib
+
+[ 2017-10-20T12:50:11+08:00 ] 127.0.0.1 /index.php/Admin/Admin/static/h-ui.admin/css/H-ui.admin.css
+ERR: 非法操作:static
+
+[ 2017-10-20T12:50:11+08:00 ] 127.0.0.1 /index.php/Admin/Admin/static/h-ui.admin/css/style.css
+ERR: 非法操作:static
+
+[ 2017-10-20T12:50:11+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/layer/2.4/layer.js
+ERR: 非法操作:lib
+
+[ 2017-10-20T12:50:12+08:00 ] 127.0.0.1 /index.php/Admin/Admin/static/h-ui/js/H-ui.min.js
+ERR: 非法操作:static
+
+[ 2017-10-20T12:50:12+08:00 ] 127.0.0.1 /index.php/Admin/Admin/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2017-10-20T12:50:12+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/jquery.validation/1.14.0/jquery.validate.js
+ERR: 非法操作:lib
+
+[ 2017-10-20T12:50:12+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/jquery.validation/1.14.0/validate-methods.js
+ERR: 非法操作:lib
+
+[ 2017-10-20T12:50:12+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/jquery.validation/1.14.0/messages_zh.js
+ERR: 非法操作:lib
+
+[ 2017-10-20T12:51:31+08:00 ] 127.0.0.1 /index.php/Admin/index/picture-list.html
+ERR: 非法操作:picture-list
+
+[ 2017-10-20T13:06:57+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+
+[ 2017-10-20T13:07:33+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+
+[ 2017-10-20T13:10:21+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+
+[ 2017-10-20T13:19:35+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0090s ]
+
+[ 2017-10-20T13:20:59+08:00 ] 127.0.0.1 /index.php/Admin/admin/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: INSERT INTO `bg_user` (`username`,`password`,`sex`,`tel`,`email`,`comments`) VALUES ('yangwenjie','yangwenjie','1','18133630250','123@qq.com','yangwenjie') [ RunTime:0.0010s ]
+
+[ 2017-10-20T13:22:24+08:00 ] 127.0.0.1 /index.php/Admin/admin/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: INSERT INTO `bg_user` (`username`,`password`,`sex`,`tel`,`email`,`comments`) VALUES ('yangwenjie','yangwenjie','1','18133630250','123@qq.com','yangwenjie') [ RunTime:0.0010s ]
+
+[ 2017-10-20T13:24:57+08:00 ] 127.0.0.1 /index.php/Admin/admin/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: INSERT INTO `bg_user` (`username`,`password`,`sex`,`tel`,`email`,`comments`,`created_time`,`updated_time`,`last_login_time`,`last_ip`) VALUES ('yangwenjie','b24cd30c3972c9a1735bc8f668f4cfbf','1','18133630250','123@qq.com','yangwenjie','1508477097','1508477097','1508477097','2130706433') [ RunTime:0.0000s ]
+
+[ 2017-10-20T13:26:38+08:00 ] 127.0.0.1 /index.php/Admin/admin/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: INSERT INTO `bg_user` (`username`,`password`,`sex`,`tel`,`email`,`rid`,`comments`,`created_time`,`updated_time`,`last_login_time`,`last_ip`) VALUES ('yangwenjie','b24cd30c3972c9a1735bc8f668f4cfbf','1','18133630250','123@qq.com','2','yangwenjie','1508477198','1508477198','1508477198','2130706433') [ RunTime:0.0000s ]
+
+[ 2017-10-20T13:46:35+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+
+[ 2017-10-20T13:46:45+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+
+[ 2017-10-20T13:47:17+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T13:47:46+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T13:50:39+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+
+[ 2017-10-20T13:52:06+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0050s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T13:52:11+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T13:54:26+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T13:54:28+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T13:58:26+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T13:58:30+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T13:58:34+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T13:58:36+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 0 [ RunTime:0.0010s ]
+
+[ 2017-10-20T13:58:39+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 6 [ RunTime:0.0000s ]
+
+[ 2017-10-20T13:58:42+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:00:25+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:00:28+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:00:34+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:00:38+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:00:40+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0050s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:03:53+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:03:58+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:04:03+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 6 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:04:07+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 0 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:04:21+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:04:26+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 0 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:04:33+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:04:41+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:05:02+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:05:07+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:05:11+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:08:08+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:09:44+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-20T14:10:20+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:13:16+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:13:36+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:15:14+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:15:16+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:15:19+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:15:20+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0040s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:15:20+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:15:20+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:15:20+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:15:21+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:15:21+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:15:21+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:15:31+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:17:05+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:17:18+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:17:23+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:17:30+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 6 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:17:34+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:17:39+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:17:44+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:18:07+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:18:18+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:18:30+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:18:35+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:18:38+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:18:53+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:18:55+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:20:15+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:20:18+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0050s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:20:25+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:20:29+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 6 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:20:32+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:20:39+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:20:43+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 6 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:20:47+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:20:50+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0050s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:21:01+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 6 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:24:43+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:25:01+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:25:13+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:25:25+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:25:35+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:25:42+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:25:49+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 6 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:25:57+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:26:04+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:26:53+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:28:01+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0050s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:28:05+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:29:13+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:33:22+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:33:28+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:33:44+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:33:47+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:37:12+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:37:18+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:38:51+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:40:34+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0050s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:42:55+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:42:58+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:44:23+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:44:56+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:46:14+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:46:18+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:46:19+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:46:20+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:46:20+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:46:20+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:46:35+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:46:42+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0050s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:46:44+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:46:46+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:46:47+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:46:47+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:46:47+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:48:22+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0050s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:48:25+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:48:27+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:48:53+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:48:58+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:49:52+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:52:52+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 6 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:53:02+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 6 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:53:06+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:53:30+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:53:32+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:53:34+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:53:45+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:53:47+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0050s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 6 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:53:52+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 6 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:53:56+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 6 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:54:02+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:54:06+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:54:09+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:54:13+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:54:16+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:54:18+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0050s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:56:19+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 1 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:56:21+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:56:24+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 6 [ RunTime:0.0000s ]
+
+[ 2017-10-20T14:56:31+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 6 [ RunTime:0.0010s ]
+
+[ 2017-10-20T14:59:31+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 6 [ RunTime:0.0000s ]
+
+[ 2017-10-20T15:05:27+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-20T15:05:30+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T15:11:17+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: DELETE FROM `bg_user` WHERE `id` = 6 [ RunTime:0.0000s ]
+
+[ 2017-10-20T15:11:43+08:00 ] 127.0.0.1 /index.php/Admin/admin/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: INSERT INTO `bg_user` (`username`,`password`,`sex`,`tel`,`email`,`rid`,`comments`,`created_time`,`updated_time`,`last_login_time`,`last_ip`) VALUES ('dwaw','adbf5a778175ee757c34d0eba4e932bc','1','18133630250','123@qq.com','2','111','1508483503','1508483503','1508483503','2130706433') [ RunTime:0.0010s ]
+
+[ 2017-10-20T15:11:49+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: DELETE FROM `bg_user` WHERE `id` = 7 [ RunTime:0.0010s ]
+
+[ 2017-10-20T15:14:07+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-20T15:15:35+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T15:15:39+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-20T15:29:07+08:00 ] 127.0.0.1 /index.php/Admin/index/product-add.html
+ERR: 非法操作:product-add
+
+[ 2017-10-20T15:29:34+08:00 ] 127.0.0.1 /index.php/Admin/index/product-add.html
+ERR: 非法操作:product-add
+
+[ 2017-10-20T15:29:55+08:00 ] 127.0.0.1 /index.php/Admin/index/article-add.html
+ERR: 非法操作:article-add
+
+[ 2017-10-20T15:34:15+08:00 ] 127.0.0.1 /index.php/Admin/login/%7BU(
+ERR: 非法操作:{U(
+
+[ 2017-10-20T15:34:29+08:00 ] 127.0.0.1 /index.php/Admin/login/%7BU(
+ERR: 非法操作:{U(
+
+[ 2017-10-20T15:48:18+08:00 ] 127.0.0.1 /index.php/Admin/index/member-list.html
+ERR: 非法操作:member-list
+
+[ 2017-10-20T16:18:06+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 9 [ RunTime:0.0010s ]
+
+[ 2017-10-20T16:18:13+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 9 [ RunTime:0.0010s ]
+
+[ 2017-10-20T16:18:17+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 8 [ RunTime:0.0000s ]
+
+[ 2017-10-20T16:18:21+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 8 [ RunTime:0.0000s ]
+
+[ 2017-10-20T16:18:24+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 9 [ RunTime:0.0000s ]
+
+[ 2017-10-20T16:19:14+08:00 ] 127.0.0.1 /index.php/Admin/Member/edit
+ERR: 模板不存在:./Application/Admin/View/Member/edit.html
+
+[ 2017-10-20T16:22:41+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: rolelist F:\wamp\blog\Application\Runtime\Cache\Admin\cbac30b13a417c95dc977a1bb5ff6dbc.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-20T16:28:59+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: rolelist F:\wamp\blog\Application\Runtime\Cache\Admin\cbac30b13a417c95dc977a1bb5ff6dbc.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T16:29:34+08:00 ] 127.0.0.1 /index.php/Admin/Member/edit
+ERR: 模板不存在:./Application/Admin/View/Member/edit.html
+
+[ 2017-10-20T16:30:53+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: rolelist F:\wamp\blog\Application\Runtime\Cache\Admin\cbac30b13a417c95dc977a1bb5ff6dbc.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-20T16:31:06+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: rolelist F:\wamp\blog\Application\Runtime\Cache\Admin\cbac30b13a417c95dc977a1bb5ff6dbc.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-20T16:31:13+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: rolelist F:\wamp\blog\Application\Runtime\Cache\Admin\cbac30b13a417c95dc977a1bb5ff6dbc.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T16:31:14+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: rolelist F:\wamp\blog\Application\Runtime\Cache\Admin\cbac30b13a417c95dc977a1bb5ff6dbc.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T16:31:14+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: rolelist F:\wamp\blog\Application\Runtime\Cache\Admin\cbac30b13a417c95dc977a1bb5ff6dbc.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-20T16:31:14+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: rolelist F:\wamp\blog\Application\Runtime\Cache\Admin\cbac30b13a417c95dc977a1bb5ff6dbc.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T16:31:14+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: rolelist F:\wamp\blog\Application\Runtime\Cache\Admin\cbac30b13a417c95dc977a1bb5ff6dbc.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T16:31:15+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: rolelist F:\wamp\blog\Application\Runtime\Cache\Admin\cbac30b13a417c95dc977a1bb5ff6dbc.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-20T16:31:15+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: rolelist F:\wamp\blog\Application\Runtime\Cache\Admin\cbac30b13a417c95dc977a1bb5ff6dbc.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-20T16:33:49+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: rolelist F:\wamp\blog\Application\Runtime\Cache\Admin\cbac30b13a417c95dc977a1bb5ff6dbc.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T16:34:22+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: INSERT INTO `bg_user` (`username`,`password`,`sex`,`tel`,`email`,`rid`,`comments`,`created_time`,`updated_time`,`last_login_time`,`last_ip`) VALUES ('xiaoze','98577f7d21e59fdd9875155c5b826998','1','18133630250','136644909@qq.com','1','','1508488462','1508488462','1508488462','2130706433') [ RunTime:0.0000s ]
+
+[ 2017-10-20T16:34:48+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: INSERT INTO `bg_user` (`username`,`password`,`sex`,`tel`,`email`,`rid`,`comments`,`created_time`,`updated_time`,`last_login_time`,`last_ip`) VALUES ('laolu','8e6bededbaec9dfb36c23a7f9491d831','1','18133630250','123@qq.com','1','','1508488488','1508488488','1508488488','2130706433') [ RunTime:0.0010s ]
+
+[ 2017-10-20T16:34:54+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 11 [ RunTime:0.0010s ]
+
+[ 2017-10-20T16:35:38+08:00 ] 127.0.0.1 /index.php/Admin/admin/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: INSERT INTO `bg_user` (`username`,`password`,`sex`,`tel`,`email`,`rid`,`comments`,`created_time`,`updated_time`,`last_login_time`,`last_ip`) VALUES ('laolu','8e6bededbaec9dfb36c23a7f9491d831','1','18133630250','123@qq.com','2','','1508488538','1508488538','1508488538','2130706433') [ RunTime:0.0000s ]
+
+[ 2017-10-20T16:37:16+08:00 ] 127.0.0.1 /index.php/Admin/Admin/add
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bg_role` WHERE `status` = 1 AND `id` = 2 AND (  ) 
+
+[ 2017-10-20T16:42:24+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: rolelist F:\wamp\blog\Application\Runtime\Cache\Admin\cbac30b13a417c95dc977a1bb5ff6dbc.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-20T16:43:17+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: rolelist F:\wamp\blog\Application\Runtime\Cache\Admin\cbac30b13a417c95dc977a1bb5ff6dbc.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T16:43:28+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: rolelist F:\wamp\blog\Application\Runtime\Cache\Admin\cbac30b13a417c95dc977a1bb5ff6dbc.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T16:43:28+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: rolelist F:\wamp\blog\Application\Runtime\Cache\Admin\cbac30b13a417c95dc977a1bb5ff6dbc.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T16:43:28+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: rolelist F:\wamp\blog\Application\Runtime\Cache\Admin\cbac30b13a417c95dc977a1bb5ff6dbc.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-20T16:43:29+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: rolelist F:\wamp\blog\Application\Runtime\Cache\Admin\cbac30b13a417c95dc977a1bb5ff6dbc.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-20T16:43:30+08:00 ] 127.0.0.1 /index.php/Admin/member/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: rolelist F:\wamp\blog\Application\Runtime\Cache\Admin\cbac30b13a417c95dc977a1bb5ff6dbc.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T16:45:43+08:00 ] 127.0.0.1 /index.php/Admin/admin/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: INSERT INTO `bg_user` (`username`,`password`,`sex`,`tel`,`email`,`rid`,`comments`,`created_time`,`updated_time`,`last_login_time`,`last_ip`) VALUES ('haiquan','0df4ab81bb2a73c27eb0fdfae3b64843','1','18133630250','123@qq.com','1','','1508489143','1508489143','1508489143','2130706433') [ RunTime:0.0010s ]
+
+[ 2017-10-20T16:45:57+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 13 [ RunTime:0.0000s ]
+
+[ 2017-10-20T16:46:31+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`rid`='3',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-20T16:47:02+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`rid`='2',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-20T16:47:47+08:00 ] 127.0.0.1 /index.php/Admin/index/admin-permission.html
+ERR: 非法操作:admin-permission
+
+[ 2017-10-20T16:49:52+08:00 ] 127.0.0.1 /index.php/Admin/Member/edit
+ERR: 模板不存在:./Application/Admin/View/Member/edit.html
+
+[ 2017-10-20T16:50:44+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-10-20T16:53:31+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: DELETE FROM `bg_user` WHERE `id` = 13 [ RunTime:0.0000s ]
+
+[ 2017-10-20T16:54:30+08:00 ] 127.0.0.1 /index.php/Admin/admin/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: INSERT INTO `bg_user` (`username`,`password`,`sex`,`tel`,`email`,`rid`,`comments`,`created_time`,`updated_time`,`last_login_time`,`last_ip`) VALUES ('aaaaaa','0b4e7a0e5fe84ad35fb5f95b9ceeac79','1','18133630250','123@qq.com','1','','1508489670','1508489670','1508489670','2130706433') [ RunTime:0.0000s ]
+
+[ 2017-10-20T16:55:35+08:00 ] 127.0.0.1 /index.php/Admin/admin/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-20T16:56:33+08:00 ] 127.0.0.1 /index.php/Admin/admin/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: INSERT INTO `bg_user` (`username`,`password`,`sex`,`tel`,`email`,`rid`,`comments`,`created_time`,`updated_time`,`last_login_time`,`last_ip`) VALUES ('sssss','2d02e669731cbade6a64b58d602cf2a4','1','18133630250','123@qq.com','1','','1508489793','1508489793','1508489793','2130706433') [ RunTime:0.0010s ]
+
+[ 2017-10-20T16:59:56+08:00 ] 127.0.0.1 /index.php/Admin/admin/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-20T17:01:03+08:00 ] 127.0.0.1 /index.php/Admin/admin/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Array to string conversion F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: INSERT INTO `bg_user` (`username`,`password`,`sex`,`tel`,`email`,`rid`,`comments`,`created_time`,`updated_time`,`last_login_time`,`last_ip`) VALUES ('aDcc','4084d57357de089923e4732a87ccc8cd','1','18133630250','123@qq.com','1','','1508490063','1508490063','1508490063','2130706433') [ RunTime:0.0000s ]
+
+[ 2017-10-20T17:01:07+08:00 ] 127.0.0.1 /index.php/Admin/admin/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Array to string conversion F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: INSERT INTO `bg_user` (`username`,`password`,`sex`,`tel`,`email`,`rid`,`comments`,`created_time`,`updated_time`,`last_login_time`,`last_ip`) VALUES ('aDcc','4084d57357de089923e4732a87ccc8cd','1','18133630250','123@qq.com','1','','1508490067','1508490067','1508490067','2130706433') [ RunTime:0.0000s ]
+
+[ 2017-10-20T17:01:07+08:00 ] 127.0.0.1 /index.php/Admin/admin/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Array to string conversion F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: INSERT INTO `bg_user` (`username`,`password`,`sex`,`tel`,`email`,`rid`,`comments`,`created_time`,`updated_time`,`last_login_time`,`last_ip`) VALUES ('aDcc','4084d57357de089923e4732a87ccc8cd','1','18133630250','123@qq.com','1','','1508490067','1508490067','1508490067','2130706433') [ RunTime:0.0010s ]
+
+[ 2017-10-20T17:01:08+08:00 ] 127.0.0.1 /index.php/Admin/admin/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Array to string conversion F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: INSERT INTO `bg_user` (`username`,`password`,`sex`,`tel`,`email`,`rid`,`comments`,`created_time`,`updated_time`,`last_login_time`,`last_ip`) VALUES ('aDcc','4084d57357de089923e4732a87ccc8cd','1','18133630250','123@qq.com','1','','1508490068','1508490068','1508490068','2130706433') [ RunTime:0.0010s ]
+
+[ 2017-10-20T17:01:08+08:00 ] 127.0.0.1 /index.php/Admin/admin/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Array to string conversion F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: INSERT INTO `bg_user` (`username`,`password`,`sex`,`tel`,`email`,`rid`,`comments`,`created_time`,`updated_time`,`last_login_time`,`last_ip`) VALUES ('aDcc','4084d57357de089923e4732a87ccc8cd','1','18133630250','123@qq.com','1','','1508490068','1508490068','1508490068','2130706433') [ RunTime:0.0010s ]
+
+[ 2017-10-20T17:03:38+08:00 ] 127.0.0.1 /index.php/Admin/admin/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: INSERT INTO `bg_user` (`username`,`password`,`sex`,`tel`,`email`,`rid`,`comments`,`created_time`,`updated_time`,`last_login_time`,`last_ip`) VALUES ('assasa','8a48ec102b8ab752eacc30a03b71e1b6','1','18133630250','123@qq.com','1','','1508490218','1508490218','1508490218','2130706433') [ RunTime:0.0010s ]
+
+[ 2017-10-20T17:04:15+08:00 ] 127.0.0.1 /index.php/Admin/admin/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: INSERT INTO `bg_user` (`username`,`password`,`sex`,`tel`,`email`,`rid`,`comments`,`created_time`,`updated_time`,`last_login_time`,`last_ip`) VALUES ('assasa','8a48ec102b8ab752eacc30a03b71e1b6','1','18133630250','123@qq.com','1','','1508490255','1508490255','1508490255','2130706433') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant datas - assumed 'datas' F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 29 行.
+NOTIC: [2] Illegal string offset 'comments' F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 29 行.
+
+[ 2017-10-20T17:04:40+08:00 ] 127.0.0.1 /index.php/Admin/admin/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: INSERT INTO `bg_user` (`username`,`password`,`sex`,`tel`,`email`,`rid`,`comments`,`created_time`,`updated_time`,`last_login_time`,`last_ip`) VALUES ('assasa','8a48ec102b8ab752eacc30a03b71e1b6','1','18133630250','123@qq.com','1','','1508490280','1508490280','1508490280','2130706433') [ RunTime:0.0000s ]
+
+[ 2017-10-20T17:06:11+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: DELETE FROM `bg_user` WHERE `id` = 19 [ RunTime:0.0000s ]
+
+[ 2017-10-20T17:06:18+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: DELETE FROM `bg_user` WHERE `id` = 18 [ RunTime:0.0000s ]
+
+[ 2017-10-20T17:06:23+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: DELETE FROM `bg_user` WHERE `id` = 16 [ RunTime:0.0000s ]
+
+[ 2017-10-20T17:06:30+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: DELETE FROM `bg_user` WHERE `id` = 19 [ RunTime:0.0000s ]
+
+[ 2017-10-20T17:06:34+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: DELETE FROM `bg_user` WHERE `id` = 18 [ RunTime:0.0000s ]
+
+[ 2017-10-20T17:06:49+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: DELETE FROM `bg_user` WHERE `id` = 23 [ RunTime:0.0010s ]
+
+[ 2017-10-20T17:06:52+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: DELETE FROM `bg_user` WHERE `id` = 22 [ RunTime:0.0010s ]
+
+[ 2017-10-20T17:06:54+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: DELETE FROM `bg_user` WHERE `id` = 21 [ RunTime:0.0000s ]
+
+[ 2017-10-20T17:06:56+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: DELETE FROM `bg_user` WHERE `id` = 20 [ RunTime:0.0010s ]
+
+[ 2017-10-20T17:07:18+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: DELETE FROM `bg_user` WHERE `id` = 17 [ RunTime:0.0000s ]
+
+[ 2017-10-20T17:07:20+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: DELETE FROM `bg_user` WHERE `id` = 15 [ RunTime:0.0000s ]
+
+[ 2017-10-20T17:07:23+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: DELETE FROM `bg_user` WHERE `id` = 14 [ RunTime:0.0000s ]
+
+[ 2017-10-20T17:09:53+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: DELETE FROM `bg_user` WHERE `id` = 11 [ RunTime:0.0000s ]
+
+[ 2017-10-20T17:10:45+08:00 ] 127.0.0.1 /index.php/Admin/Member/edit
+ERR: 模板不存在:./Application/Admin/View/Member/edit.html
+
+[ 2017-10-20T17:16:41+08:00 ] 127.0.0.1 /index.php/Admin/Member/change-password.html
+ERR: 非法操作:change-password
+
+[ 2017-10-20T17:18:25+08:00 ] 127.0.0.1 /index.php/Admin/Member/change-password.html
+ERR: 非法操作:change-password
+

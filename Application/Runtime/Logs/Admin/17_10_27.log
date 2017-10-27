@@ -1,0 +1,559 @@
+[ 2017-10-27T08:41:56+08:00 ] 127.0.0.1 /index.php/Admin/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `menu_id` FROM `bg_access` WHERE ( role_id= ) 
+
+[ 2017-10-27T08:55:29+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/23
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bg_menu` WHERE `id` IN () 
+
+[ 2017-10-27T09:05:38+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0050s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=3 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('26','25','34','33','16','22','11','13','7','17','6','12','5')  [ RunTime:0.0010s ]
+
+[ 2017-10-27T09:07:39+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0100s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=3 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('26','25','34','33','16','22','11','13','7','17','6','12','5')  [ RunTime:0.0000s ]
+
+[ 2017-10-27T09:07:44+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0110s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=3 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('26','25','34','33','16','22','11','13','7','17','6','12','5')  [ RunTime:0.0000s ]
+
+[ 2017-10-27T09:08:19+08:00 ] 127.0.0.1 /index.php/Admin/menu/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0110s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=3 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('26','25','34','33','16','22','11','13','7','17','6','12','5')  [ RunTime:0.0010s ]
+
+[ 2017-10-27T09:09:47+08:00 ] 127.0.0.1 /index.php/Admin/menu/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0020s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=3 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('26','25','34','33','16','22','11','13','7','17','6','12','5')  [ RunTime:0.0000s ]
+
+[ 2017-10-27T09:09:51+08:00 ] 127.0.0.1 /index.php/Admin/menu/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0110s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=3 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('26','25','34','33','16','22','11','13','7','17','6','12','5')  [ RunTime:0.0010s ]
+
+[ 2017-10-27T09:10:14+08:00 ] 127.0.0.1 /index.php/Admin/menu/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0110s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=3 )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('26','25','34','33','16','22','11','13','7','17','6','12','5')  [ RunTime:0.0010s ]
+
+[ 2017-10-27T09:10:17+08:00 ] 127.0.0.1 /index.php/Admin/menu/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0110s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=3 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('26','25','34','33','16','22','11','13','7','17','6','12','5')  [ RunTime:0.0000s ]
+
+[ 2017-10-27T09:10:20+08:00 ] 127.0.0.1 /index.php/Admin/menu/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0080s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=3 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('26','25','34','33','16','22','11','13','7','17','6','12','5')  [ RunTime:0.0000s ]
+
+[ 2017-10-27T09:20:32+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0085s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0025s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=3 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('26','25','34','33','16','22','11','13','7','17','6','12','5')  [ RunTime:0.0000s ]
+
+[ 2017-10-27T09:22:11+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0105s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0100s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=3 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('26','25','34','33','16','22','11','13','7','17','6','12','5')  [ RunTime:0.0005s ]
+
+[ 2017-10-27T09:25:22+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0150s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=3 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('26','25','34','33','16','22','11','13','7','17','6','12','5')  [ RunTime:0.0000s ]
+
+[ 2017-10-27T09:28:54+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0105s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0110s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=3 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('26','25','34','33','16','22','11','13','7','17','6','12','5')  [ RunTime:0.0005s ]
+
+[ 2017-10-27T09:28:58+08:00 ] 127.0.0.1 /index.php/Admin/admin/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0075s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=3 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('26','25','34','33','16','22','11','13','7','17','6','12','5')  [ RunTime:0.0005s ]
+
+[ 2017-10-27T09:29:37+08:00 ] 127.0.0.1 /index.php/Admin/role/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0115s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0115s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 35 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0115s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0105s ]
+SQL: UPDATE `bg_role` SET `role_name`='会员',`description`='平民',`updated_time`='1509067777' WHERE `id` = 3 [ RunTime:0.0005s ]
+SQL: DELETE FROM `bg_access` WHERE ( role_id=3 ) [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_access` (`role_id`,`menu_id`,`created_time`,`updated_time`) VALUES ('3','5','1509067777','1509067777'),('3','12','1509067777','1509067777'),('3','6','1509067777','1509067777'),('3','17','1509067777','1509067777'),('3','7','1509067777','1509067777'),('3','24','1509067777','1509067777'),('3','11','1509067777','1509067777'),('3','22','1509067777','1509067777'),('3','16','1509067777','1509067777'),('3','33','1509067777','1509067777'),('3','34','1509067777','1509067777'),('3','25','1509067777','1509067777'),('3','26','1509067777','1509067777') [ RunTime:0.0005s ]
+
+[ 2017-10-27T09:57:25+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0105s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0095s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+
+[ 2017-10-27T09:57:28+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0095s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0105s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0000s ]
+
+[ 2017-10-27T10:02:37+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0065s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0110s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0025s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 26 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-10-27T10:02:42+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0095s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0140s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0000s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 26 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-10-27T10:05:41+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0105s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-10-27T10:06:12+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0145s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0125s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-10-27T10:06:35+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0160s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0125s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: rs E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 30 行.
+
+[ 2017-10-27T10:06:46+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0060s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 35 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-10-27T10:08:43+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0065s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0060s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-10-27T10:14:47+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0155s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0155s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-10-27T10:14:58+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0185s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0110s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-10-27T10:15:28+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0155s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0000s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-10-27T10:16:33+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0135s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0150s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 35 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-10-27T10:16:37+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0095s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0115s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 35 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-10-27T10:23:50+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 35 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-10-27T10:28:39+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0160s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0135s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0155s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 35 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-10-27T10:30:00+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0085s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 35 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-10-27T10:30:09+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0050s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0025s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 35 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-10-27T10:44:04+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0150s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 35 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-10-27T10:45:03+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0125s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0140s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: id E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 24 行.
+
+[ 2017-10-27T10:45:16+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0145s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0155s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `bg_menu` SET `menu_name`='菜单删除',`pid`='34',`menu_controller`='menu',`menu_action`='del',`is_show`='0',`created_time`='1509072316',`updated_time`='1509072316',`display`='1' WHERE `id` = 30 [ RunTime:0.0005s ]
+
+[ 2017-10-27T10:45:42+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0135s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0160s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 35 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-10-27T10:45:57+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0135s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 35 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '菜单删除' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `bg_menu` SET `menu_name`='菜单删除',`pid`='34',`menu_controller`='menu',`menu_action`='del',`is_show`='0',`created_time`='1509072357',`updated_time`='1509072357',`display`='1' WHERE `id` = 30 [ RunTime:0.0005s ]
+
+[ 2017-10-27T10:46:18+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 35 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `bg_menu` WHERE `menu_name` = '嘻嘻' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_menu` (`menu_name`,`pid`,`menu_controller`,`menu_action`,`is_show`,`created_time`,`updated_time`) VALUES ('嘻嘻','0','11','11','0','1509072378','1509072378') [ RunTime:0.0000s ]
+
+[ 2017-10-27T10:46:28+08:00 ] 127.0.0.1 /index.php/Admin/menu/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0115s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `bg_menu` WHERE `pid` = 35  [ RunTime:0.0005s ]
+SQL: UPDATE `bg_menu` SET `display`='0' WHERE `id` = 35 [ RunTime:0.0005s ]
+
+[ 2017-10-27T10:56:21+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0070s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0065s ]
+SQL: UPDATE `bg_user` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0005s ]
+
+[ 2017-10-27T10:56:23+08:00 ] 127.0.0.1 /index.php/Admin/admin/freeze.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0035s ]
+SQL: SELECT `menu_id` FROM `bg_access` WHERE ( role_id=1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `bg_menu` WHERE `id` IN ('10','9','8','5','12','6','17','18','19','20','21','7','13','14','15','23','24','11','22','27','28','29','16','30','31','32','33','34','25','26')  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0055s ]
+SQL: UPDATE `bg_user` SET `status`='1' WHERE `id` = 10 [ RunTime:0.0000s ]
+
+[ 2017-10-27T10:56:40+08:00 ] 127.0.0.1 /index.php/Admin/index/picture-add.html
+ERR: 非法操作:picture-add
+
+[ 2017-10-27T10:56:43+08:00 ] 127.0.0.1 /index.php/Admin/index/article-add.html
+ERR: 非法操作:article-add
+

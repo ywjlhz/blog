@@ -1,0 +1,815 @@
+[ 2017-10-23T11:43:57+08:00 ] 127.0.0.1 /index.php/Admin/menu/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_menu` SET `menu_name`='管理员管理111',`pid`='0',`menu_controller`='admin',`menu_action`='' WHERE `id` = 5 [ RunTime:0.0010s ]
+
+[ 2017-10-23T11:44:10+08:00 ] 127.0.0.1 /index.php/Admin/menu/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_menu` SET `menu_name`='管理员管理',`pid`='0',`menu_controller`='admin',`menu_action`='' WHERE `id` = 5 [ RunTime:0.0000s ]
+
+[ 2017-10-23T11:44:14+08:00 ] 127.0.0.1 /index.php/Admin/menu/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0090s ]
+SQL: UPDATE `bg_menu` SET `menu_name`='管理员管理',`pid`='0',`menu_controller`='admin',`menu_action`='' WHERE `id` = 5 [ RunTime:0.0000s ]
+
+[ 2017-10-23T11:47:20+08:00 ] 127.0.0.1 /index.php/Admin/menu/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0060s ]
+SQL: UPDATE `bg_menu` SET `menu_name`='分类管理',`pid`='11',`menu_controller`='category',`menu_action`='' WHERE `id` = 7 [ RunTime:0.0000s ]
+
+[ 2017-10-23T11:47:38+08:00 ] 127.0.0.1 /index.php/Admin/menu/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_menu` SET `menu_name`='分类管理',`pid`='0',`menu_controller`='category',`menu_action`='' WHERE `id` = 7 [ RunTime:0.0000s ]
+
+[ 2017-10-23T11:54:00+08:00 ] 127.0.0.1 /index.php/Admin/menu/del/id/%2Bid%2B.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent F:\wamp\blog\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_menu` SET `is_show`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+NOTIC: [2] Cannot modify header information - headers already sent F:\wamp\blog\ThinkPHP\Library\Think\Controller.class.php 第 215 行.
+
+[ 2017-10-23T11:54:03+08:00 ] 127.0.0.1 /index.php/Admin/menu/del/id/%2Bid%2B.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent F:\wamp\blog\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_menu` SET `is_show`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+NOTIC: [2] Cannot modify header information - headers already sent F:\wamp\blog\ThinkPHP\Library\Think\Controller.class.php 第 215 行.
+
+[ 2017-10-23T11:56:04+08:00 ] 127.0.0.1 /index.php/Admin/menu/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_menu` SET `is_show`='0' WHERE `id` = 15 [ RunTime:0.0010s ]
+
+[ 2017-10-23T11:56:35+08:00 ] 127.0.0.1 /index.php/Admin/menu/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_menu` SET `is_show`='0' WHERE `id` = 5 [ RunTime:0.0010s ]
+
+[ 2017-10-23T12:01:26+08:00 ] 127.0.0.1 /index.php/Admin/menu/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `bg_menu` WHERE `pid` = 5  [ RunTime:0.0000s ]
+
+[ 2017-10-23T12:01:38+08:00 ] 127.0.0.1 /index.php/Admin/menu/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `bg_menu` WHERE `pid` = 5  [ RunTime:0.0010s ]
+
+[ 2017-10-23T12:01:44+08:00 ] 127.0.0.1 /index.php/Admin/menu/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `bg_menu` WHERE `pid` = 8  [ RunTime:0.0010s ]
+SQL: UPDATE `bg_menu` SET `is_show`='0' WHERE `id` = 8 [ RunTime:0.0010s ]
+
+[ 2017-10-23T12:19:27+08:00 ] 127.0.0.1 /index.php/Admin/role/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc' at line 1
+ [ SQL语句 ] : SELECT * FROM `bg_role` WHERE `status` = 1 ORDER BY id,desc 
+
+[ 2017-10-23T12:23:57+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_user` SET `username`='shenjie',`password`='4d70eb8ff65c992a37c02ba59a9d13ec',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`rid`='0',`comments`='' WHERE `id` = 24 [ RunTime:0.0010s ]
+
+[ 2017-10-23T12:28:25+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/2
+ERR: 模板不存在:./Application/Admin/View/Role/edit.html
+
+[ 2017-10-23T12:29:26+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0070s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`rid`='0',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-23T12:30:23+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_user` SET `username`='laolu',`password`='8e6bededbaec9dfb36c23a7f9491d831',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`rid`='0',`comments`='' WHERE `id` = 12 [ RunTime:0.0010s ]
+
+[ 2017-10-23T12:42:03+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0090s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`rid`='0',`comments`='aa' WHERE `id` = 2 [ RunTime:0.0000s ]
+
+[ 2017-10-23T12:42:46+08:00 ] 127.0.0.1 /index.php/Admin/edit/10
+ERR: 无法加载控制器:Edit
+
+[ 2017-10-23T12:42:50+08:00 ] 127.0.0.1 /index.php/Admin/edit/10
+ERR: 无法加载控制器:Edit
+
+[ 2017-10-23T12:46:08+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_user` SET `username`='xiaoze',`password`='98577f7d21e59fdd9875155c5b826998',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='' WHERE `id` = 10 [ RunTime:0.0000s ]
+
+[ 2017-10-23T12:46:21+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_user` SET `username`='xiaoze',`password`='f465f60692a92021410ba98188a5acb7',`sex`='1',`tel`='18133630250',`email`='136644909@qq.com',`comments`='aa' WHERE `id` = 10 [ RunTime:0.0000s ]
+
+[ 2017-10-23T12:46:33+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_user` SET `username`='yang',`password`='57cb5a26334a6c1d5e27c49def4a0f0d',`sex`='1',`tel`='18133630250',`email`='123@qq.com',`comments`='aaa' WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2017-10-23T13:02:08+08:00 ] 127.0.0.1 /index.php/Admin/role/admin-role-add.html
+ERR: 非法操作:admin-role-add
+
+[ 2017-10-23T14:54:43+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '测试'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('测试','测试123','1508741683','1508741683') [ RunTime:0.0010s ]
+SQL: SELECT `id` FROM `bg_role` WHERE `role_name` = '测试' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0070s ]
+NOTIC: [8] Array to string conversion F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 23 行.
+ERR: 1054:Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : DELETE FROM `bg_access` WHERE ( role_id=Array )
+ERR: 1054:Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : DELETE FROM `bg_access` WHERE ( role_id=Array )
+
+[ 2017-10-23T14:55:41+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = ''  [ RunTime:0.0010s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('','','1508741741','1508741741') [ RunTime:0.0000s ]
+SQL: SELECT `id` FROM `bg_role` WHERE `role_name` = '' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined index: menu_id F:\wamp\blog\Application\Admin\Controller\RoleController.class.php 第 35 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0080s ]
+NOTIC: [8] Array to string conversion F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 23 行.
+ERR: 1054:Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : DELETE FROM `bg_access` WHERE ( role_id=Array )
+ERR: 1054:Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : DELETE FROM `bg_access` WHERE ( role_id=Array )
+
+[ 2017-10-23T14:56:11+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '测试'  [ RunTime:0.0000s ]
+
+[ 2017-10-23T14:57:33+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '测试'  [ RunTime:0.0000s ]
+
+[ 2017-10-23T14:57:51+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '测试'  [ RunTime:0.0000s ]
+
+[ 2017-10-23T14:58:15+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '测试'  [ RunTime:0.0000s ]
+
+[ 2017-10-23T14:58:55+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '测试2'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('测试2','123','1508741935','1508741935') [ RunTime:0.0010s ]
+SQL: SELECT `id` FROM `bg_role` WHERE `role_name` = '测试2' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0130s ]
+NOTIC: [8] Array to string conversion F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 23 行.
+ERR: 1054:Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : DELETE FROM `bg_access` WHERE ( role_id=Array )
+ERR: 1054:Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : DELETE FROM `bg_access` WHERE ( role_id=Array )
+
+[ 2017-10-23T14:59:25+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '测试2'  [ RunTime:0.0000s ]
+
+[ 2017-10-23T14:59:27+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '测试2'  [ RunTime:0.0000s ]
+
+[ 2017-10-23T14:59:27+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '测试2'  [ RunTime:0.0010s ]
+
+[ 2017-10-23T14:59:43+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '尺寸'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('尺寸','111','1508741983','1508741983') [ RunTime:0.0000s ]
+SQL: SELECT `id` FROM `bg_role` WHERE `role_name` = '尺寸' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0110s ]
+NOTIC: [8] Array to string conversion F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 23 行.
+ERR: 1054:Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : DELETE FROM `bg_access` WHERE ( role_id=Array )
+ERR: 1054:Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : DELETE FROM `bg_access` WHERE ( role_id=Array )
+
+[ 2017-10-23T15:01:23+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '11'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('11','111','1508742083','1508742083') [ RunTime:0.0000s ]
+SQL: SELECT `id` FROM `bg_role` WHERE `role_name` = '11' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0080s ]
+NOTIC: [8] Array to string conversion F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 23 行.
+ERR: 1054:Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : DELETE FROM `bg_access` WHERE ( role_id=Array )
+ERR: 1054:Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : DELETE FROM `bg_access` WHERE ( role_id=Array )
+
+[ 2017-10-23T15:04:15+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '13'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('13','1','1508742255','1508742255') [ RunTime:0.0000s ]
+SQL: SELECT `id` FROM `bg_role` WHERE `role_name` = '13' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-10-23T15:04:54+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '13232'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('13232','312','1508742294','1508742294') [ RunTime:0.0000s ]
+SQL: SELECT `id` FROM `bg_role` WHERE `role_name` = '13232' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-10-23T15:06:26+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '测'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('测','1','1508742386','1508742386') [ RunTime:0.0000s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '测' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0100s ]
+SQL: DELETE FROM `bg_access` WHERE ( role_id=11 ) [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_access` (`role_id`,`menu_id`) VALUES ('11','5'),('11','8'),('11','9'),('11','10'),('11','12') [ RunTime:0.0000s ]
+
+[ 2017-10-23T15:06:58+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '嘻哈'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('嘻哈','111','1508742418','1508742418') [ RunTime:0.0010s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '嘻哈' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+SQL: DELETE FROM `bg_access` WHERE ( role_id=12 ) [ RunTime:0.0010s ]
+SQL: INSERT INTO `bg_access` (`role_id`,`menu_id`) VALUES ('12','11'),('12','16') [ RunTime:0.0000s ]
+
+[ 2017-10-23T15:07:07+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '嘻哈'  [ RunTime:0.0000s ]
+
+[ 2017-10-23T15:17:28+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/12
+ERR: 模板不存在:./Application/Admin/View/Role/edit.html
+
+[ 2017-10-23T15:18:24+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/12
+ERR: 模板不存在:./Application/Admin/View/Role/edit.html
+
+[ 2017-10-23T15:19:18+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/12
+ERR: 模板不存在:./Application/Admin/View/Role/edit.html
+
+[ 2017-10-23T15:21:20+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '测试2'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('测试2','测试','1508743280','1508743280') [ RunTime:0.0000s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '测试2' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 29 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0130s ]
+SQL: DELETE FROM `bg_access` WHERE ( role_id=13 ) [ RunTime:0.0010s ]
+SQL: INSERT INTO `bg_access` (`role_id`,`menu_id`,`created_time`,`updated_time`) VALUES ('13','5','1508743280','1508743280'),('13','8','1508743280','1508743280'),('13','9','1508743280','1508743280'),('13','10','1508743280','1508743280'),('13','12','1508743280','1508743280'),('13','6','1508743280','1508743280'),('13','17','1508743280','1508743280'),('13','18','1508743280','1508743280'),('13','19','1508743280','1508743280'),('13','20','1508743280','1508743280'),('13','21','1508743280','1508743280'),('13','7','1508743280','1508743280'),('13','13','1508743280','1508743280'),('13','14','1508743280','1508743280'),('13','15','1508743280','1508743280'),('13','11','1508743280','1508743280'),('13','16','1508743280','1508743280') [ RunTime:0.0000s ]
+
+[ 2017-10-23T15:41:54+08:00 ] 127.0.0.1 /index.php/Admin/role/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0120s ]
+SQL: UPDATE `bg_role` SET `role_name`='超级管理员',`description`='拥有一切至高无上的权利',`updated_time`='1508744514' WHERE `id` = 3 [ RunTime:0.0000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+SQL: DELETE FROM `bg_access` WHERE ( role_id=3 ) [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_access` (`role_id`,`menu_id`,`created_time`,`updated_time`) VALUES ('3','5','1508744514','1508744514'),('3','8','1508744514','1508744514'),('3','9','1508744514','1508744514'),('3','10','1508744514','1508744514'),('3','12','1508744514','1508744514'),('3','6','1508744514','1508744514'),('3','17','1508744514','1508744514'),('3','18','1508744514','1508744514'),('3','19','1508744514','1508744514'),('3','20','1508744514','1508744514'),('3','21','1508744514','1508744514'),('3','7','1508744514','1508744514'),('3','13','1508744514','1508744514'),('3','14','1508744514','1508744514'),('3','15','1508744514','1508744514'),('3','11','1508744514','1508744514'),('3','16','1508744514','1508744514') [ RunTime:0.0000s ]
+
+[ 2017-10-23T15:42:09+08:00 ] 127.0.0.1 /index.php/Admin/role/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0130s ]
+SQL: UPDATE `bg_role` SET `role_name`='管理员',`description`='唯超级管理员是从',`updated_time`='1508744529' WHERE `id` = 2 [ RunTime:0.0000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+SQL: DELETE FROM `bg_access` WHERE ( role_id=2 ) [ RunTime:0.0010s ]
+SQL: INSERT INTO `bg_access` (`role_id`,`menu_id`,`created_time`,`updated_time`) VALUES ('2','6','1508744529','1508744529'),('2','17','1508744529','1508744529'),('2','18','1508744529','1508744529'),('2','19','1508744529','1508744529'),('2','20','1508744529','1508744529'),('2','21','1508744529','1508744529'),('2','7','1508744529','1508744529'),('2','13','1508744529','1508744529'),('2','14','1508744529','1508744529'),('2','15','1508744529','1508744529') [ RunTime:0.0000s ]
+
+[ 2017-10-23T15:42:46+08:00 ] 127.0.0.1 /index.php/Admin/role/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0120s ]
+SQL: UPDATE `bg_role` SET `role_name`='会员',`description`='平民',`updated_time`='1508744566' WHERE `id` = 1 [ RunTime:0.0000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined index: menu_id F:\wamp\blog\Application\Admin\Controller\RoleController.class.php 第 60 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 29 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+SQL: DELETE FROM `bg_access` WHERE ( role_id=1 ) [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: arr F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 37 行.
+
+[ 2017-10-23T15:42:56+08:00 ] 127.0.0.1 /index.php/Admin/role/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0140s ]
+SQL: UPDATE `bg_role` SET `role_name`='测试2',`description`='测试',`updated_time`='1508744576' WHERE `id` = 13 [ RunTime:0.0000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0130s ]
+NOTIC: [8] Undefined index: menu_id F:\wamp\blog\Application\Admin\Controller\RoleController.class.php 第 60 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 29 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0130s ]
+SQL: DELETE FROM `bg_access` WHERE ( role_id=13 ) [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: arr F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 37 行.
+
+[ 2017-10-23T15:43:27+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '空权限'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('空权限','111','1508744607','1508744607') [ RunTime:0.0010s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '空权限' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0130s ]
+NOTIC: [8] Undefined index: menu_id F:\wamp\blog\Application\Admin\Controller\RoleController.class.php 第 36 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined variable: arr F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 24 行.
+
+[ 2017-10-23T15:44:17+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-23T15:44:22+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-23T15:45:00+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-23T15:47:41+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '111111'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('111111','1','1508744861','1508744861') [ RunTime:0.0000s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '111111' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: menu_id F:\wamp\blog\Application\Admin\Controller\RoleController.class.php 第 36 行.
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined index: menu_id F:\wamp\blog\Application\Admin\Controller\RoleController.class.php 第 37 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined variable: arr F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 24 行.
+
+[ 2017-10-23T15:48:36+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '21'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('21','2','1508744916','1508744916') [ RunTime:0.0010s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '21' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: menu_id F:\wamp\blog\Application\Admin\Controller\RoleController.class.php 第 36 行.
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined index: menu_id F:\wamp\blog\Application\Admin\Controller\RoleController.class.php 第 37 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined variable: arr F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 24 行.
+
+[ 2017-10-23T15:48:59+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '2131'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('2131','1','1508744939','1508744939') [ RunTime:0.0000s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '2131' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: menu_id F:\wamp\blog\Application\Admin\Controller\RoleController.class.php 第 36 行.
+
+[ 2017-10-23T15:49:20+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '2131'  [ RunTime:0.0000s ]
+
+[ 2017-10-23T15:49:27+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '222222'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('222222','2','1508744967','1508744967') [ RunTime:0.0000s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '222222' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: menu_id F:\wamp\blog\Application\Admin\Controller\RoleController.class.php 第 36 行.
+NOTIC: [8] Undefined index: menu_id F:\wamp\blog\Application\Admin\Controller\RoleController.class.php 第 37 行.
+
+[ 2017-10-23T15:49:50+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '211'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('211','12','1508744990','1508744990') [ RunTime:0.0010s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '211' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: menu_id F:\wamp\blog\Application\Admin\Controller\RoleController.class.php 第 36 行.
+NOTIC: [8] Undefined index: menu_id F:\wamp\blog\Application\Admin\Controller\RoleController.class.php 第 37 行.
+
+[ 2017-10-23T15:50:38+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = 'hh'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('hh','1','1508745038','1508745038') [ RunTime:0.0000s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = 'hh' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0140s ]
+NOTIC: [8] Undefined index: menu_id F:\wamp\blog\Application\Admin\Controller\RoleController.class.php 第 38 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined variable: arr F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 24 行.
+
+[ 2017-10-23T15:51:40+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = 'hhhh'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('hhhh','1','1508745100','1508745100') [ RunTime:0.0010s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = 'hhhh' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-23T15:52:10+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = 'mmp'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('mmp','22','1508745130','1508745130') [ RunTime:0.0000s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = 'mmp' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-10-23T15:53:31+08:00 ] 127.0.0.1 /index.php/Admin/role/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0120s ]
+SQL: UPDATE `bg_role` SET `role_name`='会员',`description`='平民',`updated_time`='1508745211' WHERE `id` = 1 [ RunTime:0.0000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0130s ]
+NOTIC: [8] Undefined index: menu_id F:\wamp\blog\Application\Admin\Controller\RoleController.class.php 第 64 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 29 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0110s ]
+SQL: DELETE FROM `bg_access` WHERE ( role_id=1 ) [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: arr F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 37 行.
+
+[ 2017-10-23T15:53:55+08:00 ] 127.0.0.1 /index.php/Admin/role/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '空权限'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_role` (`role_name`,`description`,`created_time`,`updated_time`) VALUES ('空权限','','1508745235','1508745235') [ RunTime:0.0000s ]
+SQL: SELECT * FROM `bg_role` WHERE `role_name` = '空权限' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-10-23T15:54:22+08:00 ] 127.0.0.1 /index.php/Admin/role/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0120s ]
+SQL: UPDATE `bg_role` SET `role_name`='超级管理员',`description`='拥有一切至高无上的权利',`updated_time`='1508745262' WHERE `id` = 3 [ RunTime:0.0000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0160s ]
+SQL: DELETE FROM `bg_access` WHERE ( role_id=3 ) [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_access` (`role_id`,`menu_id`,`created_time`,`updated_time`) VALUES ('3','5','1508745262','1508745262'),('3','8','1508745262','1508745262'),('3','9','1508745262','1508745262'),('3','10','1508745262','1508745262'),('3','12','1508745262','1508745262'),('3','6','1508745262','1508745262'),('3','17','1508745262','1508745262'),('3','18','1508745262','1508745262'),('3','19','1508745262','1508745262'),('3','20','1508745262','1508745262'),('3','21','1508745262','1508745262'),('3','7','1508745262','1508745262'),('3','13','1508745262','1508745262'),('3','14','1508745262','1508745262'),('3','15','1508745262','1508745262'),('3','11','1508745262','1508745262'),('3','16','1508745262','1508745262') [ RunTime:0.0000s ]
+
+[ 2017-10-23T15:54:29+08:00 ] 127.0.0.1 /index.php/Admin/role/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0100s ]
+SQL: UPDATE `bg_role` SET `role_name`='管理员',`description`='唯超级管理员是从',`updated_time`='1508745269' WHERE `id` = 2 [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0140s ]
+SQL: DELETE FROM `bg_access` WHERE ( role_id=2 ) [ RunTime:0.0000s ]
+SQL: INSERT INTO `bg_access` (`role_id`,`menu_id`,`created_time`,`updated_time`) VALUES ('2','6','1508745269','1508745269'),('2','17','1508745269','1508745269'),('2','18','1508745269','1508745269'),('2','19','1508745269','1508745269'),('2','20','1508745269','1508745269'),('2','21','1508745269','1508745269'),('2','7','1508745269','1508745269'),('2','13','1508745269','1508745269'),('2','14','1508745269','1508745269'),('2','15','1508745269','1508745269') [ RunTime:0.0010s ]
+
+[ 2017-10-23T16:12:47+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0100s ]
+SQL: UPDATE `bg_role` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+
+[ 2017-10-23T16:13:27+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0050s ]
+SQL: UPDATE `bg_role` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-23T16:14:09+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0130s ]
+SQL: UPDATE `bg_role` SET `status`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-10-23T16:14:26+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-23T16:15:47+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0140s ]
+SQL: UPDATE `bg_role` SET `status`='0' WHERE `id` = 23 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0150s ]
+ERR: Think\Model:clearAccess方法不存在！
+
+[ 2017-10-23T16:16:17+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0130s ]
+SQL: UPDATE `bg_role` SET `status`='0' WHERE `id` = 23 [ RunTime:0.0000s ]
+
+[ 2017-10-23T16:16:42+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-23T16:16:44+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-10-23T16:16:52+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-23T16:18:40+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0170s ]
+SQL: UPDATE `bg_role` SET `status`='0' WHERE `id` = 23 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0120s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 57 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0130s ]
+SQL: DELETE FROM `bg_access` WHERE ( role_id=23 ) [ RunTime:0.0000s ]
+
+[ 2017-10-23T16:19:10+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0050s ]
+SQL: UPDATE `bg_role` SET `status`='0' WHERE `id` = 23 [ RunTime:0.0000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 57 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0130s ]
+SQL: DELETE FROM `bg_access` WHERE ( role_id=23 ) [ RunTime:0.0000s ]
+
+[ 2017-10-23T16:20:54+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0140s ]
+SQL: UPDATE `bg_role` SET `status`='0' WHERE `id` = 1 [ RunTime:0.0000s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 57 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0130s ]
+SQL: DELETE FROM `bg_access` WHERE ( role_id=1 ) [ RunTime:0.0000s ]
+
+[ 2017-10-23T16:20:57+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0090s ]
+SQL: UPDATE `bg_role` SET `status`='0' WHERE `id` = 23 [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 57 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0060s ]
+SQL: DELETE FROM `bg_access` WHERE ( role_id=23 ) [ RunTime:0.0000s ]
+
+[ 2017-10-23T16:25:01+08:00 ] 127.0.0.1 /index.php/Admin/index/picture-list.html
+ERR: 非法操作:picture-list
+
+[ 2017-10-23T16:25:04+08:00 ] 127.0.0.1 /index.php/Admin/index/feedback-list.html
+ERR: 非法操作:feedback-list
+
+[ 2017-10-23T16:27:02+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-23T16:27:22+08:00 ] 127.0.0.1 /index.php/Admin/role/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-23T17:00:36+08:00 ] 127.0.0.1 /index.php/Admin/menu/add.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\MenuModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `bg_menu` [ RunTime:0.0070s ]
+SQL: INSERT INTO `bg_menu` (`menu_name`,`pid`,`menu_controller`,`menu_action`,`created_time`,`updated_time`) VALUES ('角色列表','11','role','index','1508749236','1508749236') [ RunTime:0.0000s ]
+
+[ 2017-10-23T17:32:27+08:00 ] 127.0.0.1 /index.php/Admin/role/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\RoleModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `bg_role` [ RunTime:0.0080s ]
+SQL: UPDATE `bg_role` SET `role_name`='超级管理员',`description`='拥有一切至高无上的权利',`updated_time`='1508751147' WHERE `id` = 3 [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\AccessModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) F:\wamp\blog\Application\Admin\Model\AccessModel.class.php 第 57 行.
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `bg_access` [ RunTime:0.0070s ]
+SQL: DELETE FROM `bg_access` WHERE ( role_id=3 ) [ RunTime:0.0010s ]
+SQL: INSERT INTO `bg_access` (`role_id`,`menu_id`,`created_time`,`updated_time`) VALUES ('3','5','1508751147','1508751147'),('3','8','1508751147','1508751147'),('3','9','1508751147','1508751147'),('3','10','1508751147','1508751147'),('3','12','1508751147','1508751147'),('3','6','1508751147','1508751147'),('3','17','1508751147','1508751147'),('3','18','1508751147','1508751147'),('3','19','1508751147','1508751147'),('3','20','1508751147','1508751147'),('3','21','1508751147','1508751147'),('3','7','1508751147','1508751147'),('3','13','1508751147','1508751147'),('3','14','1508751147','1508751147'),('3','15','1508751147','1508751147'),('3','11','1508751147','1508751147'),('3','16','1508751147','1508751147'),('3','22','1508751147','1508751147') [ RunTime:0.0010s ]
+

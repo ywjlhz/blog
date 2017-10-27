@@ -1,0 +1,311 @@
+[ 2017-10-19T08:26:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:38:00+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:40:49+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:41:18+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:41:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:42:21+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:42:40+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:43:21+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:43:39+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:43:50+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:43:58+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:44:12+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:44:27+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:45:17+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:53:22+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:54:52+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:57:32+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:58:22+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:58:32+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:58:47+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:58:56+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T08:59:23+08:00 ] 127.0.0.1 /index.php/Admin/Category/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T09:33:34+08:00 ] 127.0.0.1 /index.php/Admin/Category/index.html
+ERR: XML标签语法错误 : condition="$d.category|mb_strlen
+
+[ 2017-10-19T09:33:53+08:00 ] 127.0.0.1 /index.php/Admin/Category/index.html
+ERR: XML标签语法错误 : condition="$d.category|mb_strlen
+
+[ 2017-10-19T09:34:28+08:00 ] 127.0.0.1 /index.php/Admin/Category/index.html
+ERR: XML标签语法错误 : condition="$d.category_name|mb_strlen
+
+[ 2017-10-19T09:34:29+08:00 ] 127.0.0.1 /index.php/Admin/Category/index.html
+ERR: XML标签语法错误 : condition="$d.category_name|mb_strlen
+
+[ 2017-10-19T09:34:29+08:00 ] 127.0.0.1 /index.php/Admin/Category/index.html
+ERR: XML标签语法错误 : condition="$d.category_name|mb_strlen
+
+[ 2017-10-19T09:34:38+08:00 ] 127.0.0.1 /index.php/Admin/Category/index.html
+ERR: XML标签语法错误 : condition="$d['category_name']|mb_strlen
+
+[ 2017-10-19T09:35:34+08:00 ] 127.0.0.1 /index.php/Admin/Category/index.html
+ERR: XML标签语法错误 : condition="mb_strlen($d.category_name)
+
+[ 2017-10-19T09:35:34+08:00 ] 127.0.0.1 /index.php/Admin/Category/index.html
+ERR: XML标签语法错误 : condition="mb_strlen($d.category_name)
+
+[ 2017-10-19T09:35:34+08:00 ] 127.0.0.1 /index.php/Admin/Category/index.html
+ERR: XML标签语法错误 : condition="mb_strlen($d.category_name)
+
+[ 2017-10-19T09:35:35+08:00 ] 127.0.0.1 /index.php/Admin/Category/index.html
+ERR: XML标签语法错误 : condition="mb_strlen($d.category_name)
+
+[ 2017-10-19T09:36:04+08:00 ] 127.0.0.1 /index.php/Admin/Category/index.html
+ERR: XML标签语法错误 : condition="mb_strlen($d['category_name'])
+
+[ 2017-10-19T09:36:05+08:00 ] 127.0.0.1 /index.php/Admin/Category/index.html
+ERR: XML标签语法错误 : condition="mb_strlen($d['category_name'])
+
+[ 2017-10-19T15:13:06+08:00 ] 127.0.0.1 /index.php/Admin/Category/edit/id/1.html
+ERR: 1146:Table 'blog.bg_' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `bg_` WHERE `id` = '1' LIMIT 1  
+
+[ 2017-10-19T16:43:50+08:00 ] 127.0.0.1 /index.php/Admin/index/member-list.html
+ERR: 非法操作:member-list
+
+[ 2017-10-19T16:45:42+08:00 ] 127.0.0.1 /index.php/Admin/index/admin-list.html
+ERR: 非法操作:admin-list
+
+[ 2017-10-19T20:11:53+08:00 ] 127.0.0.1 /index.php/Admin/Admin/admin-add.html
+ERR: 非法操作:admin-add
+
+[ 2017-10-19T20:11:57+08:00 ] 127.0.0.1 /index.php/Admin/Admin/admin-add.html
+ERR: 非法操作:admin-add
+
+[ 2017-10-19T20:26:47+08:00 ] 127.0.0.1 /index.php/Admin/Admin/admin-add.html
+ERR: 非法操作:admin-add
+
+[ 2017-10-19T20:26:52+08:00 ] 127.0.0.1 /index.php/Admin/Admin/admin-add.html
+ERR: 非法操作:admin-add
+
+[ 2017-10-19T20:27:38+08:00 ] 127.0.0.1 /index.php/Admin/Admin/admin-add.html
+ERR: 非法操作:admin-add
+
+[ 2017-10-19T20:41:29+08:00 ] 127.0.0.1 /index.php/Admin/index/admin-permission.html
+ERR: 非法操作:admin-permission
+
+[ 2017-10-19T20:41:33+08:00 ] 127.0.0.1 /index.php/Admin/Admin/index.php/Admin/Admin/edit.html
+ERR: 非法操作:index.php
+
+[ 2017-10-19T20:41:37+08:00 ] 127.0.0.1 /index.php/Admin/Admin/admin-add.html
+ERR: 非法操作:admin-add
+
+[ 2017-10-19T20:41:40+08:00 ] 127.0.0.1 /index.php/Admin/Admin/index.php/Admin/Admin/edit.html
+ERR: 非法操作:index.php
+
+[ 2017-10-19T20:42:44+08:00 ] 127.0.0.1 /index.php/Admin/Admin/admin-add.html
+ERR: 非法操作:admin-add
+
+[ 2017-10-19T20:42:46+08:00 ] 127.0.0.1 /index.php/Admin/Admin/Admin/edit.html
+ERR: 非法操作:Admin
+
+[ 2017-10-19T20:45:28+08:00 ] 127.0.0.1 /index.php/Admin/Admin/Admin/edit.html
+ERR: 非法操作:Admin
+
+[ 2017-10-19T20:46:16+08:00 ] 127.0.0.1 /index.php/Admin/Admin/static/h-ui/css/H-ui.min.css
+ERR: 非法操作:static
+
+[ 2017-10-19T20:46:16+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/layer/2.4/layer.js
+ERR: 非法操作:lib
+
+[ 2017-10-19T20:46:16+08:00 ] 127.0.0.1 /index.php/Admin/Admin/static/h-ui/js/H-ui.min.js
+ERR: 非法操作:static
+
+[ 2017-10-19T20:46:16+08:00 ] 127.0.0.1 /index.php/Admin/Admin/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2017-10-19T20:46:16+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/jquery.validation/1.14.0/jquery.validate.js
+ERR: 非法操作:lib
+
+[ 2017-10-19T20:46:16+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/jquery.validation/1.14.0/validate-methods.js
+ERR: 非法操作:lib
+
+[ 2017-10-19T20:46:16+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/jquery.validation/1.14.0/messages_zh.js
+ERR: 非法操作:lib
+
+[ 2017-10-19T20:46:17+08:00 ] 127.0.0.1 /index.php/Admin/Admin/static/h-ui.admin/css/H-ui.admin.css
+ERR: 非法操作:static
+
+[ 2017-10-19T20:46:17+08:00 ] 127.0.0.1 /index.php/Admin/Admin/static/h-ui.admin/css/style.css
+ERR: 非法操作:static
+
+[ 2017-10-19T20:46:17+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2017-10-19T20:46:17+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/Hui-iconfont/1.0.8/iconfont.css
+ERR: 非法操作:lib
+
+[ 2017-10-19T20:46:17+08:00 ] 127.0.0.1 /index.php/Admin/Admin/static/h-ui.admin/skin/default/skin.css
+ERR: 非法操作:static
+
+[ 2017-10-19T20:46:17+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/layer/2.4/layer.js
+ERR: 非法操作:lib
+
+[ 2017-10-19T20:46:17+08:00 ] 127.0.0.1 /index.php/Admin/Admin/static/h-ui/js/H-ui.min.js
+ERR: 非法操作:static
+
+[ 2017-10-19T20:46:17+08:00 ] 127.0.0.1 /index.php/Admin/Admin/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2017-10-19T20:46:17+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/jquery.validation/1.14.0/jquery.validate.js
+ERR: 非法操作:lib
+
+[ 2017-10-19T20:46:17+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/jquery.validation/1.14.0/validate-methods.js
+ERR: 非法操作:lib
+
+[ 2017-10-19T20:46:17+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lib/jquery.validation/1.14.0/messages_zh.js
+ERR: 非法操作:lib
+
+[ 2017-10-19T21:31:29+08:00 ] 127.0.0.1 /index.php/Admin/index/system-data.html
+ERR: 非法操作:system-data
+
+[ 2017-10-19T21:54:46+08:00 ] 127.0.0.1 /index.php/Admin/Admin/edit/id/xxxxxxx
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `bg_user` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-10-19T21:56:11+08:00 ] 127.0.0.1 /index.php/Admin/Admin/edit/id/xxxxxxx
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T22:06:33+08:00 ] 127.0.0.1 /index.php/Admin/Admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T22:09:26+08:00 ] 127.0.0.1 /index.php/Admin/Admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T22:09:49+08:00 ] 127.0.0.1 /index.php/Admin/Admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T22:09:51+08:00 ] 127.0.0.1 /index.php/Admin/Admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T22:09:53+08:00 ] 127.0.0.1 /index.php/Admin/Admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T22:09:55+08:00 ] 127.0.0.1 /index.php/Admin/Admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T22:09:56+08:00 ] 127.0.0.1 /index.php/Admin/Admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T22:10:07+08:00 ] 127.0.0.1 /index.php/Admin/Admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-19T22:10:09+08:00 ] 127.0.0.1 /index.php/Admin/Admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T22:10:11+08:00 ] 127.0.0.1 /index.php/Admin/Admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T22:11:35+08:00 ] 127.0.0.1 /index.php/Admin/Admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T22:13:33+08:00 ] 127.0.0.1 /index.php/Admin/Admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T22:14:40+08:00 ] 127.0.0.1 /index.php/Admin/Admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id F:\wamp\blog\Application\Admin\Controller\AdminController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `bg_user` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `bg_user` LIMIT 1   [ RunTime:0.0030s ]
+
+[ 2017-10-19T22:15:07+08:00 ] 127.0.0.1 /index.php/Admin/Admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T22:15:39+08:00 ] 127.0.0.1 /index.php/Admin/Admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T22:17:19+08:00 ] 127.0.0.1 /index.php/Admin/Admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T22:19:21+08:00 ] 127.0.0.1 /index.php/Admin/Admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T22:20:55+08:00 ] 127.0.0.1 /index.php/Admin/admin/edit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
