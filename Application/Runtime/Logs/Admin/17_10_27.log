@@ -557,3 +557,47 @@ ERR: 非法操作:picture-add
 [ 2017-10-27T10:56:43+08:00 ] 127.0.0.1 /index.php/Admin/index/article-add.html
 ERR: 非法操作:article-add
 
+[ 2017-10-27T19:41:25+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/23
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bg_menu` WHERE `id` IN () 
+
+[ 2017-10-27T19:42:56+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/23
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bg_menu` WHERE `id` IN () 
+
+[ 2017-10-27T19:44:43+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/23
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bg_menu` WHERE `id` IN () 
+
+[ 2017-10-27T19:47:30+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/23
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bg_menu` WHERE `id` IN () 
+
+[ 2017-10-27T19:49:20+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/23
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bg_menu` WHERE `id` IN () 
+
+[ 2017-10-27T19:49:31+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/23
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bg_menu` WHERE `id` IN () 
+
+[ 2017-10-27T20:01:18+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/23
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bg_menu` WHERE `id` IN () 
+
+[ 2017-10-27T20:07:34+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/23
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bg_menu` WHERE `id` IN () 
+
+[ 2017-10-27T20:07:52+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/23
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bg_menu` WHERE `id` IN () 
+
+[ 2017-10-27T20:07:59+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/23
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bg_menu` WHERE `id` IN () 
+
+[ 2017-10-27T20:12:57+08:00 ] 127.0.0.1 /index.php/Admin/Role/edit/id/23
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bg_menu` WHERE `id` IN () 
+

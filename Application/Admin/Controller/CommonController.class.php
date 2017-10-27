@@ -21,7 +21,6 @@ class CommonController extends Controller
         //判断是否有操作权限
         //查询当前角色所有权限
         $datas = D('Access')->getRoleAccess($_SESSION['user_info']['rid']);
-//        dump($datas);
         foreach ($datas as $key=>$value) {
             if(!empty($value['menu_controller'])) {
                 $arr[$key] = strtolower($value['menu_controller'].$value['menu_action']);

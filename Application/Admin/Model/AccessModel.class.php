@@ -49,7 +49,7 @@ class AccessModel extends Model
     {
         $datas = M('Access')->field('menu_id')->where('role_id='.$id)->select();
         $access_datas = array_column($datas,'menu_id');
-        $map['id'] = array('in',$access_datas);
+        $map['id'] = $access_datas ? array('in',$access_datas) : 'NO';
         $arr[] = M('Menu')->where($map)->select();
         return $arr[0];
     }
